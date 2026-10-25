@@ -1,0 +1,15 @@
+*.pyc
+data*
+.vscode
+.idea
+*.json
+*.pickle
+log.txt
+accounts/*
+Thumbnails/*
+MediaInfo/*
+Images/*
+downloads
+*.session*
+buttons.txt
+__pycache__
